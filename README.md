@@ -8,7 +8,7 @@ I have nearly 25 years of experience as software architect and system developer 
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
-  <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nrkljo&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&theme=solarized-light&hide_title=true" hspace="10" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=nrkljo&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&theme=solarized-light&hide_title=true" hspace="10" />
   <img width="400px" src="https://streak-stats.demolab.com/?user=nrkljo&theme=solarized-light&exclude_days=Sun%2CSat&height=360" hspace="10" />
 </p>
 
