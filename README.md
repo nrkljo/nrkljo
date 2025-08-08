@@ -4,7 +4,7 @@ Solution Architect at the [Swedish Migration Agency](https://github.com/migratio
 I've been contracting for the agency back and forth since 2009 and in my current role since 2020. 
 The agency is currently undergoing a Digital Transformation and as a part of that effort is transiting to a new reference architecture based on Event Driven Architecture and Event Streaming with Kafka and Change Data Capture (CDC). In my work towards this effort I have become the main contributor to the [Debezium Connector for Informix](https://github.com/debezium/debezium-connector-informix) (because we needed one, and there wasn't any :wink:).
 
-I have nearly 25 years of experience as software architect and system developer with extensive experience of Unix/Linux and Java Enterprise development across sectors ranging from Banking and Finance via E-commerce and Telecom to Public Administration and Life Science.
+I have nearly 25 years of experience as software architect and system developer with extensive experience of Unix/Linux and Java Enterprise development across sectors ranging from Banking and Finance via E-commerce and Telecom to Public Administration and Life Science. As of 2024 I am running my own business in Aktiebolaget LM Johansson.
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p valign="top" align="center">
